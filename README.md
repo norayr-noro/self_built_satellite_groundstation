@@ -65,10 +65,13 @@ This project demonstrates how a "lower-cost" Raspberry Pi setup can be extended 
 Here are some photos of what I require for the project that i attached to the project
 
 <img width="1366" height="684" alt="BOM1" src="https://github.com/user-attachments/assets/3aac5a83-8bcb-442f-a7db-dce8539f93c3" />
-
+<img width="1352" height="646" alt="BOM2" src="https://github.com/user-attachments/assets/25c339d5-942f-49c4-a7ba-16a02951aed7" />
+<img width="1366" height="684" alt="BOM3" src="https://github.com/user-attachments/assets/a63fad83-2b72-4fa1-9223-b99742450e9b" />
+<img width="1329" height="553" alt="BOM4" src="https://github.com/user-attachments/assets/6b5f5560-5f21-4c87-87ac-a7394444bb61" />
 
 Also there's also a diagram of how the antenna should look like
 
 
+<img width="1482" height="1244" alt="diagram for antenna" src="https://github.com/user-attachments/assets/41877e6b-8c6f-4333-8c77-b1cfd0f2159f" />
 
 
